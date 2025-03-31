@@ -6,7 +6,7 @@
 </i></b></h3>
 <h3 align="center">
   <img src="https://i.imgur.com/dVaLQHq.jpeg" width="25"> 
-  &nbsp; 𝙒𝙀𝙇𝘾𝙊𝙈𝙀 𝙏𝙊 PHOENIXTECH 𝙒𝙊𝙍𝙇𝘿 &nbsp;
+  &nbsp; 𝙒𝙀𝙇𝘾𝙊𝙈𝙀 𝙏𝙊 SPIDER WEB 𝙒𝙊𝙍𝙇𝘿 &nbsp;
   <img src="https://raw.githubusercontent.com/spider660/SPIDEY/main/webx.png" width="25"> 
 </h3>
 <img align="center" alt="line" src="https://raw.githubusercontent.com/spider660/SPIDEY/main/webx.png">
