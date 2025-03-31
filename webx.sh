@@ -120,7 +120,7 @@ function print_error() {
 function print_success() {
     if [[ 0 -eq $? ]]; then
 		echo -e "${green} ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ${FONT}"
-        echo -e "${Green} » $1  installed successfully 𝐖𝐄𝐋𝐂𝐎𝐌𝐄   𝐒𝐏𝐈𝐃𝐄𝐑 𝐖𝐄𝐁 𝐏𝐑𝐄𝐌𝐈𝐔𝐌 𝐒𝐂𝐑𝐈𝐏𝐓"
+        echo -e "${Green} » $1  installed successfully 𝐖𝐄𝐋𝐂𝐎𝐌𝐄 𝐒𝐏𝐈𝐃𝐄𝐑 𝐖𝐄𝐁 𝐏𝐑𝐄𝐌𝐈𝐔𝐌 𝐒𝐂𝐑𝐈𝐏𝐓"
 		echo -e "${green} ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ${FONT}"
         sleep 2
     fi
