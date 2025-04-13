@@ -33,9 +33,9 @@ clear;clear;clear
 
   # // Banner
 echo -e "${YELLOW}━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━${NC}"
-echo -e "  Script : ${RED} 𝐖𝐄𝐋𝐂𝐎𝐌𝐄 𝐓𝐎 𝐒𝐏𝐈𝐃𝐄𝐑 𝐖𝐄𝐁 𝐏𝐑𝐄𝐌𝐈𝐔𝐌 𝐒𝐑𝐈𝐏𝐓 ${NC}"
+echo -e "  Script : ${RED} 𝐖𝐄𝐋𝐂𝐎𝐌𝐄 𝐓𝐎 𝐒𝐏𝐈𝐃𝐄𝐑 𝐖𝐄𝐁 𝐕𝐕𝐈𝐏 𝐒𝐂𝐑𝐈𝐏𝐓 ${NC}"
 echo -e "  Author : ${RED} 𝐋𝐀𝐔-𝐒𝐏𝐈𝐃𝐄𝐘 ${NC}${YELLOW}${NC}"
-echo -e "  ©2024  : ${BLUE} 𝐇𝐎𝐌𝐄 𝐎𝐅 𝐏𝐑𝐄𝐌𝐈𝐔𝐌  𝐕𝐕𝐈𝐏 𝐄𝐗𝐏𝐄𝐑𝐈𝐄𝐍𝐂𝐄 ${NC}"
+echo -e "  ©2024  : ${BLUE} 𝐇𝐎𝐌𝐄 𝐎𝐅 𝐏𝐑𝐄𝐌𝐈𝐔𝐌 𝐕𝐕𝐈𝐏 𝐄𝐗𝐏𝐄𝐑𝐈𝐄𝐍𝐂𝐄 ${NC}"
 echo -e "  Slogan : ${BLUE} 𝐖𝐞 𝐚𝐫𝐞 𝐰𝐞𝐛𝐱.𝐖𝐞 𝐝𝐨 𝐧𝐨𝐭 𝐟𝐨𝐫𝐠𝐢𝐯𝐞.𝐖𝐞 𝐝𝐨 𝐧𝐨𝐭 𝐟𝐨𝐫𝐠𝐞𝐭.𝐄𝐱𝐩𝐞𝐜𝐭 𝐮𝐬. ${NC}"
 echo -e "${YELLOW}━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━${NC}"
 echo ""
@@ -105,7 +105,7 @@ function print_ok() {
 }
 function print_install() {
 	echo -e "${green} ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ${FONT}"
-    echo -e "${YELLOW} » 𝐒𝐏𝐈𝐃𝐄𝐑 𝐖𝐄𝐁𝐗 𝐒𝐂𝐑𝐈𝐏𝐓 $1 ${FONT}"
+    echo -e "${YELLOW} » 𝐬𝐩𝐢𝐝𝐞𝐫 𝐰𝐞𝐛𝐱 𝐬𝐜𝐫𝐢𝐩𝐭 $1 ${FONT}"
 	echo -e "${green} ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ${FONT}"
     sleep 1
 }
@@ -117,7 +117,7 @@ function print_error() {
 function print_success() {
     if [[ 0 -eq $? ]]; then
 		echo -e "${green} ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ${FONT}"
-        echo -e "${Green} » $1  𝐢𝐧𝐬𝐭𝐚𝐥𝐥𝐞𝐝 𝐬𝐮𝐜𝐜𝐞𝐬𝐬𝐟𝐮𝐥𝐥𝐲"
+        echo -e "${Green} » 𝐬𝐩𝐢𝐝𝐞𝐫 𝐰𝐞𝐛𝐱 $1 𝐢𝐧𝐬𝐭𝐚𝐥𝐥𝐞𝐝 𝐬𝐮𝐜𝐜𝐞𝐬𝐬𝐟𝐮𝐥𝐥𝐲"
 		echo -e "${green} ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ${FONT}"
         sleep 2
     fi
