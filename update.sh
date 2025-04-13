@@ -41,17 +41,14 @@ res1() {
 netfilter-persistent
 clear
 echo -e "\033[1;36m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
-echo -e " \e[1;97;101m  𝐒𝐏𝐈𝐃𝐄𝐑 𝐖𝐄𝐁𝐗 𝐒𝐂𝐑𝐈𝐏𝐓 𝐔𝐏𝐃𝐀𝐓𝐄 𝐈𝐍𝐅𝐎𝐑𝐌𝐀𝐓𝐈𝐎𝐍       \e[0m"
+echo -e " \e[1;97;101m𝐒𝐂𝐑𝐈𝐏𝐓 𝐌𝐀𝐈𝐍𝐓𝐀𝐈𝐍𝐀𝐍𝐂𝐄 𝐀𝐍𝐃 𝐔𝐏𝐃𝐀𝐓𝐄 𝐏𝐎𝐖𝐄𝐑𝐄𝐃 𝐁𝐘 𝐒𝐏𝐈𝐃𝐄𝐑\e[0m"
 echo -e "\033[1;36m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
 echo -e ""
 echo -e "  \033[1;91m update script service\033[1;37m"
 fun_bar 'res1'
 echo -e "\033[1;36m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
-echo -e " 
-echo -e "  \033[1;91m POWERED BY LAU SPIDEY\033[1;37m"
-echo -e " 
+echo -e ""
 read -n 1 -s -r -p "Press [ Enter ] to back on menu"
 menu
-
 
 ###########- COLOR CODE -##############
